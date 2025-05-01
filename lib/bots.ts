@@ -3,18 +3,18 @@ import type { Bot } from "./bot"
 export const bots: Bot[] = [
   {
     id: "hutao",
-    name: "Hutao",
+    name: "호두",
     imageUrl: "/images/hutao.png",
   },
   {
     id: "mizuki",
-    name: "Mizuki",
+    name: "아키야마 미즈키",
     imageUrl: "/images/mizuki.png",
   },
   {
-    id: "assistant",
-    name: "Assistant",
-    imageUrl: "/images/assistant-bot.png",
+    id: "runmei",
+    name: "완 매",
+    imageUrl: "/images/runmei.png",
   },
 ]
 
